@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://sanderroberti.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://sanderroberti.com/sitemap.xml
